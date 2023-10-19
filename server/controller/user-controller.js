@@ -1,5 +1,5 @@
 
-import { request, response } from "express";
+
 import User from "../model/user-schema.js";
 
 
